@@ -52,7 +52,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)][gmail]
   
-[linkedin]: [https://www.linkedin.com/in/ana-j%C3%BAlia-batista-de-souza-a506a91b2](https://www.linkedin.com/in/kece-line-oliveira-7b5038236/)
+[linkedin]: (https://www.linkedin.com/in/kece-line-oliveira-7b5038236/)
 [gmail]: mailto:keceline74@gmail.com
 
   
