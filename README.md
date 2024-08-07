@@ -57,5 +57,5 @@
 
   
 ## Minhas estatísticas 📊
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Kec3-Lin3&show_icons=true&count_private=true&hide=stars,issues" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kec3-Lin3&layout=compact" />
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=keceoliveira&show_icons=true&count_private=true&hide=stars,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keceoliveira&layout=compact" />
